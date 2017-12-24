@@ -1,2 +1,1 @@
-# Practical_Machine_Learning_Project
-The Johns Hopkins University 
+# Practical_Machine_Learning_Project - The Johns Hopkins University Coursera Class
